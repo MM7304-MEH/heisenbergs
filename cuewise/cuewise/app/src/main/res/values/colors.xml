@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cuewise_navy">#0B1020</color>
+    <color name="cuewise_background">#F7F7FB</color>
+    <color name="cuewise_white">#FFFFFF</color>
+    <color name="cuewise_coral">#FF765F</color>
+    <color name="cuewise_mint">#B7F4D6</color>
+    <color name="cuewise_lavender">#DDD4FF</color>
+    <color name="cuewise_nav">#0E1427</color>
+</resources>
